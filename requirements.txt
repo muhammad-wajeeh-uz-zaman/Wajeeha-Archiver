@@ -1,0 +1,6 @@
+# Optional add-ons - the app works without them, each one unlocks a feature.
+pyzipper>=0.3.6      # password-protected (AES-256) ZIP files
+py7zr>=0.20          # create and open 7Z archives (with passwords)
+rarfile>=4.0         # open RAR archives (also needs 7-Zip or UnRAR, see tools\README.txt)
+tkinterdnd2>=0.3.0   # drag & drop files from Explorer into the window
+send2trash>=1.8      # Delete sends files to the Recycle Bin instead of removing them
