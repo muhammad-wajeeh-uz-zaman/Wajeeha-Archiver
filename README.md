@@ -1,6 +1,7 @@
 # Wajeeha Archiver
-
 Create, open and extract archives from one friendly window - and from the Explorer right-click menu.
+---
+<img width="1065" height="597" alt="image" src="https://github.com/user-attachments/assets/da16da8a-daf7-4233-bb87-d93542282913" />
 
 ---
 
